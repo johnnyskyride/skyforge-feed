@@ -1,7 +1,7 @@
 {
-  "version": "2.12.19",
-  "code": 21219,
-  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.19/SkyForge-2.12.19.apk",
+  "version": "2.12.20",
+  "code": 21220,
+  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.20/SkyForge-2.12.20.apk",
   "page": "https://johnnyskyride.itch.io",
-  "notes": "Octave stays a whole step. Bounce pauses until you return."
+  "notes": "Sequence stays quiet while an Ear Wyrm is saved."
 }
