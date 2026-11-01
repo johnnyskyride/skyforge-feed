@@ -1,7 +1,7 @@
 {
-  "version": "2.12.15",
-  "code": 21215,
-  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.15/SkyForge-2.12.15.apk",
+  "version": "2.12.16",
+  "code": 21216,
+  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.16/SkyForge-2.12.16.apk",
   "page": "https://johnnyskyride.itch.io",
-  "notes": "Phrase sequencer keeps the last three passes."
+  "notes": "Save a sequence inside the sequencer before bounce."
 }
