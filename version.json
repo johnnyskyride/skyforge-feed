@@ -1,7 +1,7 @@
 {
-  "version": "2.12.13",
-  "code": 21213,
-  "apk": "",
+  "version": "2.12.14",
+  "code": 21214,
+  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.14/SkyForge-2.12.14.apk",
   "page": "https://johnnyskyride.itch.io",
-  "notes": ""
+  "notes": "Presets open at mid volume."
 }
