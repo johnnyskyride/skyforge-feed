@@ -1,7 +1,7 @@
 {
-  "version": "2.12.22",
-  "code": 21222,
-  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.22/SkyForge-2.12.22.apk",
+  "version": "2.12.23",
+  "code": 21223,
+  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.23/SkyForge-2.12.23.apk",
   "page": "https://johnnyskyride.itch.io",
-  "notes": "Status notes stay off the top bar."
+  "notes": "Fire's air hiss is quieter."
 }
