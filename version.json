@@ -1,7 +1,7 @@
 {
-  "version": "2.12.21",
-  "code": 21221,
-  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.21/SkyForge-2.12.21.apk",
+  "version": "2.12.22",
+  "code": 21222,
+  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.22/SkyForge-2.12.22.apk",
   "page": "https://johnnyskyride.itch.io",
-  "notes": "Audio comes back clean. Bounces are numbered."
+  "notes": "Status notes stay off the top bar."
 }
