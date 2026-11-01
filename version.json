@@ -1,7 +1,7 @@
 {
-  "version": "2.12.16",
-  "code": 21216,
-  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.16/SkyForge-2.12.16.apk",
+  "version": "2.12.17",
+  "code": 21217,
+  "apk": "https://github.com/johnnyskyride/skyforge-feed/releases/download/v2.12.17/SkyForge-2.12.17.apk",
   "page": "https://johnnyskyride.itch.io",
-  "notes": "Save a sequence inside the sequencer before bounce."
+  "notes": "Knob rides play back inside a sequence."
 }
